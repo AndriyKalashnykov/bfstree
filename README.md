@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/bcicen/bfstree"
+	"github.com/AndriyKalashnykov/bfstree"
 )
 
 type FlightRoute struct {

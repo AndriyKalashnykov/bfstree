@@ -1,5 +1,3 @@
-module github.com/bcicen/bfstree
+module github.com/AndriyKalashnykov/bfstree
 
-go 1.18
-
-require github.com/xlab/treeprint v1.1.0
+go 1.22

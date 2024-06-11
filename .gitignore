@@ -1,0 +1,6 @@
+.bin/
+dist/
+main
+completions/
+main
+.idea

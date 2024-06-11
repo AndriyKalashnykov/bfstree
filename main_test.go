@@ -3,7 +3,7 @@ package bfstree_test
 import (
 	"testing"
 
-	"github.com/bcicen/bfstree"
+	"github.com/AndriyKalashnykov/bfstree"
 )
 
 var tree *bfstree.BFSTree
