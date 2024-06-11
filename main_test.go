@@ -1,9 +1,8 @@
 package bfstree_test
 
 import (
-	"testing"
-
 	"github.com/AndriyKalashnykov/bfstree"
+	"testing"
 )
 
 var tree *bfstree.BFSTree
